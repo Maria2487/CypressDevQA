@@ -17,7 +17,7 @@ describe("Nevoi: use 'Vizualizeaza' functionality ", () => {
      cy.visit("https://iwanttohelp.bim.assistcloud.services/dashboard/needs");
      
      cy.get("i[title='Vizualizeaza']").first().click();
-     cy.get('.title').should('have.text', ' Vizualizare nevoie ');
+     cy.get('.title').first().should('have.text', ' Vizualizare nevoie ');
      cy.url().should('contains','https://iwanttohelp.bim.assistcloud.services/dashboard/needs/view');
      
   });
