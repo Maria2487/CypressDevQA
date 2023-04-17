@@ -1,0 +1,16 @@
+{
+  "name": "internship",
+  "version": "1.0.0",
+  "description": "Cypress internship package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "cy:run": "cypress run",
+    "cy:open": "cypress open"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^12.9.0"
+  }
+}

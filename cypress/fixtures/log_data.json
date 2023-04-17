@@ -1,0 +1,25 @@
+{
+  "username": "1234567890",
+  "password": "testparolavoluntar",
+
+  "invalidUser": "123456",
+  "invalidPassword": "incorect",
+
+
+  "firstName": "qwe",
+  "lastName": "wdefd",
+  "phoneNumber": "12345675868",
+  "category": "Alimente",
+  "description": "Random description",
+  "street": "Test street",
+  "city": "Test city",
+  "county": "Test country",
+  "postalCode": "12345",
+
+
+  "message": "This is just a message",
+  "email": "qwer@gmail.com",
+  "searchType": "qwe wdefd"
+}
+
+
